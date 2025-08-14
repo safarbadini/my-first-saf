@@ -1,18 +1,22 @@
 body{
-    background-color: #d7bcbc;
+    background-color: rgb(220, 185, 140);
     font-family: "Jameel Noori Nastaleeq", sans-serif;
     margin: 0;
     padding: 20px;
+    line-height: 1.6;
 }
 h1, h6 {
-    color: #4b0ad6;
+    color: rgb(63, 63, 181);
+    border: 2px solid rgb(72, 72, 187);
+    width: 80px;
+    padding: 10px;
 }
 p {
-    color: #3ec742;
+    color: rgb(3, 146, 3);
     font-size: 18px;
 }
 a {
-    color: #0e0a01e3;
+    color: rgb(12, 12, 16);
     text-decoration: none;
 }
 img {
