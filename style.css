@@ -7,17 +7,20 @@ body{
 }
 h1, h6 {
     color: rgb(63, 63, 181);
-    border: 2px solid rgb(72, 72, 187);
-    width: 80px;
+    border: 3px solid rgb(72, 72, 187);
+    width: 100px;
     padding: 10px;
+    text-align: center;
 }
 p {
     color: rgb(3, 146, 3);
     font-size: 18px;
+
 }
 a {
     color: rgb(12, 12, 16);
     text-decoration: none;
+
 }
 img {
     max-width: 100%;
