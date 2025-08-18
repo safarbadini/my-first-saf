@@ -1,5 +1,8 @@
 body{
-    background-image: url('dar3.png');
+    background-image: url('pic.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
    /* background-color: rgb(230, 225, 218);*/
     font-family: "Jameel Noori Nastaleeq", sans-serif;
     margin: 0;
