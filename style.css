@@ -1,5 +1,6 @@
 body{
-    background-color: rgb(220, 185, 140);
+    background-image: url('dar3.png');
+   /* background-color: rgb(230, 225, 218);*/
     font-family: "Jameel Noori Nastaleeq", sans-serif;
     margin: 0;
     padding: 20px;
@@ -27,6 +28,7 @@ button {
     color: white;
     border: dotted 2px rgb(72, 187, 103);
     padding: 10px 20px;
+    margin: 10px 0;
     cursor: pointer;
     font-size: 16px;
     border-radius: 10px
@@ -34,10 +36,17 @@ button {
 button:hover {
     background-color: rgb(199, 116, 65);
     border-color: rgb(22, 22, 230);
+    color: white;
+
 }
 img {
     max-width: 100%;
     height: auto;
     display: block;
     margin: 20px 0;
+    border: 2px solid rgb(72, 72, 187);
+    float: left;
+    border-radius: 10px;
+    
+
 }
