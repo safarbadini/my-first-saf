@@ -3,22 +3,22 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-   /* background-color: rgb(230, 225, 218);*/
+    background-color: rgb(230, 225, 218);
     font-family: "Jameel Noori Nastaleeq", sans-serif;
     margin: 0;
     padding: 20px;
     line-height: 1.6;
 }
 h1, h6 {
-    color: rgb(63, 63, 181);
+    color: rgb(228, 228, 237);
     border: 3px solid rgb(72, 72, 187);
     width: 100px;
     padding: 10px;
     text-align: center;
 }
 p {
-    color: rgb(3, 146, 3);
-    font-size: 18px;
+    color: rgb(2000, 235, 227);
+    font-size: 20px;
 
 }
 a {
