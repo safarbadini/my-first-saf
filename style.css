@@ -14,7 +14,9 @@ header {
     text-align: center;
     margin-bottom: 20px;
     padding: 20px;
-    background-color: rgba(72, 72, 187, 0.8);
+    background-color: rgba(235, 235, 241, 0.8);
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 nav {
     background-color: rgba(72, 72, 187, 0.8);
@@ -102,8 +104,8 @@ footer {
     text-align: center;
     margin-top: 20px;
     padding: 10px;
-    background-color: rgba(72, 72, 187, 0.8);
-    color: rgb(228, 228, 237);
+    background-color: rgba(238, 238, 245, 0.8);
+    color: rgb(129, 129, 230);
     border-radius: 8px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
