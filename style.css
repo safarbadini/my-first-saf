@@ -118,6 +118,40 @@ td, th {
      border: 5px solid red; 
     padding: 8px;
 }
+th {
+    background-color: rgb(72, 72, 187);
+    color: white;
+}
+form {
+    background-color: rgba(238, 238, 245, 0.8);
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 8px;
+    font-size: 16px;
+    font-family: "Jameel Noori Nastaleeq", sans-serif;
+}
+input[type="submit"] {
+    background-color: rgb(63, 63, 181);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 8px;
+}
+input[type="submit"]:hover {
+    background-color: rgb(199, 116, 65);
+}
 footer {
     text-align: center;
     margin-top: 20px;
